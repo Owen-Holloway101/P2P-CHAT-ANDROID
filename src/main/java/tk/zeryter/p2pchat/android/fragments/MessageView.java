@@ -5,5 +5,5 @@ import android.app.Fragment;
 /**
  * Owen Holloway, Zeryt. 8:13 PM, 28/02/14
  */
-public class messageView extends Fragment {
+public class MessageView extends Fragment {
 }
